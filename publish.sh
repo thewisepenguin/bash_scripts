@@ -314,3 +314,8 @@ fi
 ###################FOR FURTHER SECURITY#################
 #export SSHPASS=''
 #apparently there was no need for this, becuase 'export' only makes a variable available to sub-shells, not parent shells!! :))
+
+
+
+
+#https://medium.com/faun/net-core-projects-ci-cd-with-jenkins-ubuntu-and-nginx-642aa9d272c9
